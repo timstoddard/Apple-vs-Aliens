@@ -1,0 +1,10 @@
+Normal_Alien
+Normal_Alien
+Normal_Alien
+Backwards_Alien
+Normal_Alien
+Backwards_Alien
+Fat_Alien
+Normal_Alien
+Fat_Alien
+Strong_Alien

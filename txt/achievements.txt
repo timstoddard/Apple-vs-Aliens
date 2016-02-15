@@ -1,0 +1,9 @@
+48,66
+true,helloworld.png,Hello World!,Opened the game
+true,killer.png,Killer,Killed 10 aliens!
+false,superkiller.png,Super-Killer,Killed 100 aliens!
+false,terminator.png,Terminator,Killed 1000 aliens!
+true,consumer.png,Consumer,Use 10 Apple products
+false,uberconsumer.png,Uber-Consumer,Use 100 Apple products
+false,steve.png,Steve Jobs,Use 1000 Apple products
+false,winner.png,Winner!,Beat all 10 levels!

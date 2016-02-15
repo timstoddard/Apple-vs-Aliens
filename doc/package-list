@@ -1,0 +1,7 @@
+game.entity
+game.entity.alive.alien
+game.entity.alive.apple
+game.entity.notalive
+game.gamerunner
+game.gamerunner.sound
+game.main
